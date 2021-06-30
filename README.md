@@ -45,4 +45,7 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
 
+## Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CyberSecurityUP=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
