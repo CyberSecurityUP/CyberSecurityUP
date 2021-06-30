@@ -24,7 +24,7 @@ I love computers since I was 7 years old and in love with the information securi
 OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 19years|Asperger
 
-![image](https://user-images.githubusercontent.com/34966120/123971995-e080fd80-d990-11eb-9f16-716a4e0f56f2.png)
+![image](https://user-images.githubusercontent.com/34966120/123971995-e080fd80-d990-11eb-9f16-716a4e0f56f2.png width="60")
 
 :computer: I'm Red Team Leader.
 
@@ -42,4 +42,4 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 <br>
 
-<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="30">
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
