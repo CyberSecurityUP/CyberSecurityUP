@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 I love computers since I was 7 years old and in love with the information security area since I was 10 years old.
 
 OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
-19years|Asperger
 
-![image](https://user-images.githubusercontent.com/34966120/123971995-e080fd80-d990-11eb-9f16-716a4e0f56f2.png width="60")
+<br>
+
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+
+</br>
 
 :computer: I'm Red Team Leader.
 
@@ -40,6 +43,4 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
 
-<br>
 
-<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
