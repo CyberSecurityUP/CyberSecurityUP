@@ -29,6 +29,8 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 </br>
 
+[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP)](https://github.com/CyberSecurityUP/github-readme-stats)
+
 :computer: I'm Red Team Leader.
 
 :house_with_garden: I’m from Brazil.
