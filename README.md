@@ -47,5 +47,5 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CyberSecurityUP=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
 
