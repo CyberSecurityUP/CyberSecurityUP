@@ -29,7 +29,7 @@ OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
 
 </br>
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark](https://github.com/CyberSecurityUP/github-readme-stats)
+[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark](https://github.com/CyberSecurityUP/github-readme-stats)
 
 :computer: I'm Red Team Leader.
 
