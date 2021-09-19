@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I love computers since I was 7 years old and in love with the information security area since I was 10 years old.
 
-OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | OSCP (In Progress 99%)
+OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | eMAPT
 
 <br>
 
