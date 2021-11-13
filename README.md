@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **CyberSecurityUP/CyberSecurityUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ### I'm Joas Antonio
 
-9 years of academic and professional experience, Ethical Hacker in Inmetrics, Information Security Researcher, Ethical Hacking and PenTest Independent, OWASP Member and Researcher, Cybrary Teacher Assistant, Microsoft Innovative Educator Instructor, Web Developer (Front-End and Back-End), Bug Hunter by HackerOne and OBB, Python Developer Expert, Shell Script Expert, has over +800 technology courses and +50 certifications, SANS Member, Mitre Att&ck Contributor, Red Team Village Contributor, Texas Cyber Security Summit Contributor, 1000 CEH Hall of Fame, CIS Member and Research, Infosec Competence Leader in Security Awareness, Cyber Security Mentor, Adversary Emulation Expert, Cyber Security Awards Finalist 2020, Article and Book Writer, Cracking The Perimeter Framework Creator, Vulnerable Machine Engineering by Offensive Security, Cyber Security Tutors Founder, Hakin9 Magazine Contributor, Exin Ethical Hacking Foudation Instructor, Exploit Developer and IT lover.
+Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
-I love computers since I was 7 years old and in love with the information security area since I was 10 years old.
-
-OSWP | CEH ANSI | CEH Practical | CEH Master | eJPT | eMAPT | eWPT | eWPTXv2
+OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
 
 <br>
 
