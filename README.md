@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
-OSWP, CEH ANSI, CEH Practical, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2
+OSWP, CEH Master, eJPT, eMAPT, eWPT, eWPTXv2, eCXD
 
 <br>
 
